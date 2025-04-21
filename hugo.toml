@@ -1,0 +1,84 @@
+baseurl = "https://example.org/"
+languageCode = "en-us"
+Title = "Selly's diary"
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Copyright 2025"
+theme = "hugo_theme_pickles"
+# Google Analytics API key.
+googleAnalytics = "Your Google Analytics tracking id"
+
+# enable get info from git commits, such as file modification time.
+# so we don't have to manually update it.
+enableGitInfo = false
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  # Hide the date on posts
+  # hideDate = true
+  # Hide last modified date on posts
+  # hideModifiedDate = true
+  # Hide the word count on posts and in the posts list
+  # hideWordCount = true
+  # Hide the reading time on posts and in the posts list
+  # hideReadingTime = true
+  custom_css = ["/css/custom.css"]
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  
+  facebook = "sellyschan"
+  instagram = "sall_578"
+  github = "selly578"
+ 
+  # Disqus shortname
+  disqus = ""
+  author = "Selly"
+  authorwebsite = "example.com"
+  avatar = "https://avatars.githubusercontent.com/u/179711219?v=4"
+  bio = "Hanya orang gabut"
+  # Short subtitle/tagline. This is displayed in the header.
+  subtitle = "Cuma tulisan random"
+  # Logo image. This is displayed ogp image.
+  logo = "/path/to/logo"
+  favicon = "/path/to/favicon"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 80
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = false
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 150
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 30
+  [[related.indices]]
+  name  = "tags"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2017"
