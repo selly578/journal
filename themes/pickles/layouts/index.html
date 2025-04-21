@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+{{ $visiblePosts := where (where .Site.RegularPages "Type" "posts") ".Params.hidden" "ne" true }}
+{{ $paginator := .Paginate $visiblePosts }}
+
+{{ range $index, $page := $paginator.Pages }}
+  {{ .Render "li" }}
+{{ end }}
+
+{{ partial "pagination.html" $paginator }}
+{{ partial "siteinfo.html" . }}
+{{ partial "footer.html" . }}
