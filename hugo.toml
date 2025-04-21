@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://sellysjournal.netlify.app/"
 languageCode = "en-us"
 Title = "Selly's diary"
 # Copyright notice. This is displayer in the footer.
@@ -32,7 +32,7 @@ enableGitInfo = false
   github = "selly578"
  
   # Disqus shortname
-  disqus = ""
+  disqus = "sellys-blog"
   author = "Selly"
   authorwebsite = "example.com"
   avatar = "https://avatars.githubusercontent.com/u/179711219?v=4"
