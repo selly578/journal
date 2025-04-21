@@ -4,7 +4,7 @@
   command = "hugo --gc --minify --buildFuture"
 
 [context.production.environment]
-  HUGO_VERSION = "0.146.0"
+  HUGO_VERSION = "0.128.1"
   HUGO_ENV = "production"
   TZ = "Europe/Paris"
   
