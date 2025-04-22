@@ -9,7 +9,7 @@ googleAnalytics = "Your Google Analytics tracking id"
 
 # enable get info from git commits, such as file modification time.
 # so we don't have to manually update it.
-enableGitInfo = false
+enableGitInfo = true
 
 [pagination]
   pagerSize = 10

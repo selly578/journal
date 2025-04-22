@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2025</copyright>
-    <lastBuildDate>Mon, 21 Apr 2025 04:14:54 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 08:46:54 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 22 Apr 2025 08:46:54 +0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hallo (˶˃ ᵕ ˂˶) .ᐟ.ᐟ&lt;/p&gt;&#xA;&lt;p&gt;Kenalin aku Selly(nama samaran hehe)&lt;/p&gt;&#xA;&lt;p&gt;Aku cuma web dev nganggur yang kerja kalau ada project doang :&amp;lsquo;3&lt;/p&gt;&#xA;&lt;p&gt;Kalo engga? Ya aku ngegabut TwT&lt;/p&gt;&#xA;&lt;p&gt;Aku bikin blog baru ini cuma untuk journal(atau diary) biar ga suntuk kalau ga ada kerjaan&lt;/p&gt;&#xA;&lt;p&gt;Biasanya sih aku bikin game atau website gabut, dan kadang hasilnya ga jelas (╥﹏╥)&lt;/p&gt;&#xA;&lt;p&gt;But that&amp;rsquo;s okay, at least that&amp;rsquo;s heal my loneliness a bit :&amp;rsquo;)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Entry pertama</title>
       <link>http://localhost:1313/posts/first/</link>
