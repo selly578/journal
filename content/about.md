@@ -2,6 +2,7 @@
 date: 2025-04-22T08:46:54+07:00
 draft: true
 title: About
+thumbnail: "/img/me.jpg"
 ---
 
 Hallo (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
@@ -27,7 +28,6 @@ Itu aja sih,I hope we can be freinds (੭ˊᵕˋ)੭
 
 Love you all...◝(˶˃ ᵕ ˂˶) ◜♡
 
-![foto aku :3](/img/me.jpg)
 
 
 
