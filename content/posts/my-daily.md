@@ -4,6 +4,7 @@ draft: false
 title: Keseharian yang muter muter
 hideReadingTime: true
 hideWordCount: true
+tags: ["random","my thought"]
 ---
 
 Kasur,laptop,hp,kasur lagi

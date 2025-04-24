@@ -5,6 +5,7 @@ title: Kehampaan dunia 'Girls Last Tour'
 hideReadingTime: true
 hideWordCount: true
 thumbnail: "/img/thumb1.jpg"
+tags: ["anime"]
 ---
 
 Jadi beberapa hari yang lalu aku nonton anime "Girls Last Tour".Anime lama, seharusnya mah udah pada tau :"v 
