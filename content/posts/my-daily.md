@@ -1,6 +1,6 @@
 ---
-date: 2025-04-24T08:07:11+07:00
-draft: true
+date: 2025-04-24T17:41:11+08:00
+draft: false
 title: Keseharian yang muter muter
 hideReadingTime: true
 hideWordCount: true
