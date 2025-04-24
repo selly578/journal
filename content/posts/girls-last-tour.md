@@ -1,6 +1,6 @@
 ---
 date: 2025-04-24T19:37:10+07:00
-draft: true
+draft: false
 title: Kehampaan dunia 'Girls Last Tour'
 hideReadingTime: true
 hideWordCount: true
