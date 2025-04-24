@@ -3,6 +3,8 @@ title: "Entry pertama"
 type: "posts"
 draft: false
 date: 2025-04-21T04:14:54-08:00
+hideReadingTime: true
+hideWordCount: true
 ---
 
 Haloo (ﾉ^ヮ^)ﾉ*:・ﾟ✧
