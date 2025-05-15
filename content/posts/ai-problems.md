@@ -1,5 +1,6 @@
 ---
 date: 2025-05-15T19:20:32+07:00
+type: "posts"
 draft: false
 title: AI (gak) selalu bisa diandalkan 
 hideReadingTime: true
