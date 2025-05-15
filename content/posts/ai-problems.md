@@ -1,11 +1,10 @@
 ---
-tags: ["AI","Teknologi"]
-date: 2025-05-15T19:37:10+07:00
+date: 2025-05-15T13:37:10+07:00
 draft: false
 title: AI (gak) selalu bisa diandalkan 
 hideReadingTime: true
 hideWordCount: true
-tags: ["anime"]
+tags: ["AI","teknologi"]
 ---
 
 Halo ⸜(｡˃ ᵕ ˂ )⸝♡ 
