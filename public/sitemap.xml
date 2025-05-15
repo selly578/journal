@@ -2,39 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/gallery/</loc>
+    <loc>https://sellysjournal.netlify.app/posts/</loc>
+    <lastmod>2025-05-15T19:20:32+07:00</lastmod>
+  </url><url>
+    <loc>https://sellysjournal.netlify.app/</loc>
+    <lastmod>2025-05-15T19:20:32+07:00</lastmod>
+  </url><url>
+    <loc>https://sellysjournal.netlify.app/tags/anime/</loc>
     <lastmod>2025-04-25T05:41:10+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sellysjournal.netlify.app/posts/girls-last-tour/</loc>
     <lastmod>2025-04-25T05:41:10+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/anime/</loc>
+    <loc>https://sellysjournal.netlify.app/tags/</loc>
     <lastmod>2025-04-25T05:41:10+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/girls-last-tour/</loc>
+    <loc>https://sellysjournal.netlify.app/posts/my-daily/</loc>
     <lastmod>2025-04-25T05:41:10+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://sellysjournal.netlify.app/tags/my-thought/</loc>
     <lastmod>2025-04-25T05:41:10+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sellysjournal.netlify.app/tags/random/</loc>
     <lastmod>2025-04-25T05:41:10+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-daily/</loc>
-    <lastmod>2025-04-25T05:41:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/my-thought/</loc>
-    <lastmod>2025-04-25T05:41:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/random/</loc>
-    <lastmod>2025-04-25T05:41:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-04-24T20:48:50+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/first-entry/</loc>
+    <loc>https://sellysjournal.netlify.app/posts/first-entry/</loc>
     <lastmod>2025-04-24T17:05:42+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sellysjournal.netlify.app/categories/</loc>
   </url>
 </urlset>
