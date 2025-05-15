@@ -7,7 +7,7 @@ hideWordCount: true
 tags: ["AI","Teknologi"]
 ---
 
-Halo ⸜(｡˃ ᵕ ˂ )⸝♡
+Halo ⸜(｡˃ ᵕ ˂ )⸝♡ 
 
 Kayannya udah hampir dua minggu lebih ga ngeblog :v
 
