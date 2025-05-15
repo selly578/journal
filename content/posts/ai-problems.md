@@ -4,6 +4,7 @@ draft: false
 title: AI (gak) selalu bisa diandalkan 
 hideReadingTime: true
 hideWordCount: true
+tags: ["AI","Teknologi"]
 ---
 
 Halo ⸜(｡˃ ᵕ ˂ )⸝♡
